@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a34fbe9-de10-4ecb-b8da-59aa36f030dd" name="Changes" comment="Telegram Bot, case one is Did" />
+    <list default="true" id="6a34fbe9-de10-4ecb-b8da-59aa36f030dd" name="Changes" comment="Telegram Bot, case one is Did - 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675805762653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Telegram Bot, case one is Did">
+      <created>1675806226236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675806226236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
