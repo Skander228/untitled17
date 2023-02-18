@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a34fbe9-de10-4ecb-b8da-59aa36f030dd" name="Changes" comment="telegram bot implemented 2 - 5">
+    <list default="true" id="6a34fbe9-de10-4ecb-b8da-59aa36f030dd" name="Changes" comment="telegram bot implemented 2.5 - 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TelegramBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TelegramBotApplication.java" afterDir="false" />
     </list>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676640225677</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="telegram bot implemented 2.5 - 5">
+      <created>1676667855523</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667855523</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +129,7 @@
     <MESSAGE value="Telegram Bot, case one is Did - 2" />
     <MESSAGE value="telegram bot implemented 1 - 5" />
     <MESSAGE value="telegram bot implemented 2 - 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="telegram bot implemented 2 - 5" />
+    <MESSAGE value="telegram bot implemented 2.5 - 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="telegram bot implemented 2.5 - 5" />
   </component>
 </project>
