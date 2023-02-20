@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a34fbe9-de10-4ecb-b8da-59aa36f030dd" name="Changes" comment="telegram bot implemented 4.8 - 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TelegramBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TelegramBotApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="6a34fbe9-de10-4ecb-b8da-59aa36f030dd" name="Changes" comment="telegram bot implemented 4.8 - 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676732704386</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="telegram bot implemented 4.8 - 5">
+      <created>1676930506266</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676930506266</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
